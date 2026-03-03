@@ -43,8 +43,8 @@ No shortcuts. No MSc/PhD required. Pure clinical + technical excellence.
 
 ## Connect / Collaborate
 - Open to shadowing radiology/neurology AI pilots at AKU, DUHS, JPMC
-- Email: [your official student email]
-- LinkedIn: (add later)
+- Email: [kareemullahjamro40@gmail.com]
+- LinkedIn:
 - Daily updates every Sunday
 
 **“AI will not replace neurophysicians. It will replace neurophysicians who do not use AI.”**  
