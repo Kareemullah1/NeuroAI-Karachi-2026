@@ -19,7 +19,8 @@ No shortcuts. No MSc/PhD required. Pure clinical + technical excellence.
 - MNE-Python pipelines for EEG seizure detection
 - Clinical notes on South-Asian bias correction (hypertension, skull thickness)
 - Portfolio-ready outputs, screenshots, and abstracts for PSN / DUHS research days
-- 3D Slicer comparisons (human vs AI)
+- 3D Slicer comparisons (human vs AI)[Neuro_AI_Mastery_Tracker_Day1to90.docx.docx](https://github.com/user-attachments/files/25727701/Neuro_AI_Mastery_Tracker_Day1to90.docx.docx)
+
 
 ## Tech Stack (Hospital-Grade from Day 1)
 - **MONAI** (v1.4+) – Official PyTorch framework used by NHS, Mayo Clinic, AKU pilots
@@ -34,8 +35,7 @@ No shortcuts. No MSc/PhD required. Pure clinical + technical excellence.
 - **Phase 3 (Days 46–75):** EEG Seizure Detection + Multimodal Reports
 - **Phase 4 (Days 76–90):** Capstone Validation Project + PSN Abstract
 
-- Full Daily Tracker:Neuro_AI_Mastery_Tracker_Day1to90.docx (will be updated daily)
-
+- Full Daily Tracker: Neuro_AI_Mastery_Tracker_Day1to90.docx (will be updated daily)
 ## Clinical Vision for Pakistan
 - Faster door-to-needle times in stroke using local-validated AI
 - Safer epilepsy surgery workups with AI-assisted EEG
