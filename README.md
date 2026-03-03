@@ -34,7 +34,7 @@ No shortcuts. No MSc/PhD required. Pure clinical + technical excellence.
 - **Phase 3 (Days 46–75):** EEG Seizure Detection + Multimodal Reports
 - **Phase 4 (Days 76–90):** Capstone Validation Project + PSN Abstract
 
-**Full Daily Tracker:** [Neuro_AI_Mastery_Tracker_Day1to90.docx](link-to-your-uploaded-Word-file) (will be updated daily)
+**Full Daily Tracker:** [Neuro_AI_Mastery_Tracker_Day1to90.docx](Neuro_AI_Mastery_Tracker_Day1to90.docx) (will be updated daily)
 
 ## Clinical Vision for Pakistan
 - Faster door-to-needle times in stroke using local-validated AI
